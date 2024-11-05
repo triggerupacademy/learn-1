@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-local 
-=======
-i aaded in github
->>>>>>> 819163114a513c790a2909512dfb39972ba21f1f
+i love you
